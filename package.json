@@ -1,9 +1,9 @@
 {
-  "name": "@m0dch3n/cordova-plugin-cocoapod-support",
-  "version": "1.9.0-m0dch3n",
+  "name": "cordova-plugin-cocoapod-support-m0dch3n",
+  "version": "1.0.0",
   "description": "A Cordova/PhoneGap plugin to add support for Cocoapod dependencies.",
   "cordova": {
-    "id": "cordova-plugin-cocoapod-support",
+    "id": "cordova-plugin-cocoapod-support-m0dch3n",
     "platforms": [
       "ios",
       "android"
